@@ -1,0 +1,34 @@
+[
+  {
+    "Header": {
+      "PrevBlockHash": "",
+      "MerkleRoot": "Ht56qTpUg3V7r2dUEcHRcdaAUPZOYZlD4qbpR0kqiIo=",
+      "Timestamp": 1773628614,
+      "Difficulty": 16,
+      "Nonce": 0
+    },
+    "Transactions": [
+      {
+        "ID": "Ht56qTpUg3V7r2dUEcHRcdaAUPZOYZlD4qbpR0kqiIo=",
+        "Hash": "Ht56qTpUg3V7r2dUEcHRcdaAUPZOYZlD4qbpR0kqiIo=",
+        "Inputs": [
+          {
+            "TxID": "",
+            "Vout": -1,
+            "Signature": null,
+            "PubKey": "VGhlIFRpbWVzIDAzL0phbi8yMDA5IENoYW5jZWxsb3Igb24gYnJpbmsgb2Ygc2Vjb25kIGJhaWxvdXQgZm9yIGJhbmtz"
+          }
+        ],
+        "Outputs": [
+          {
+            "Value": 50,
+            "PubKeyHash": "VdQ/vA2pnBIsq5ZyUxLZmM8XIfg="
+          }
+        ],
+        "Timestamp": 1773628614
+      }
+    ],
+    "Hash": "7x5dmCGEr//opSkPOLZjahXVt65adl7/sORS9UOeEFM=",
+    "Height": 0
+  }
+]
