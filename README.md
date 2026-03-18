@@ -53,7 +53,7 @@ bitcoin-model-blockchain/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/bitcoin-model-blockchain.git
+git clone https://github.com/hock1024always/bitcoin-model-blockchain.git
 cd bitcoin-model-blockchain
 
 # 下载依赖
@@ -294,4 +294,4 @@ go test ./core -v
 
 ---
 
-Made with ❤️ for blockchain education
+Made with ❤️ for Blockchain Era Studio
